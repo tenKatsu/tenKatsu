@@ -14,7 +14,7 @@ I'm stupid
 # 💭 Languages I wanna Learn:
 ![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![image](	https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![image](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![image](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![image](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-# 🔭 I’m currently working on:
+# 📝 I’m currently working on:
 
 ## [PreMiD Presences](https://github.com/IF6plus/Presences)
 That's it!

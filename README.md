@@ -23,8 +23,8 @@ That's it!
  **Anything within skillset**
 
 # 📫 How to reach me:
-You can contact me on Discord via IF6+#4520 
-You may also contact me via Twitter: [IF6+ on Twitter](https://twitter.com/IF6plus)
+-You can contact me on Discord via IF6+#4520
+-You may also contact me via Twitter: [IF6+ on Twitter](https://twitter.com/IF6plus)
 
 # 👤 More about me!
 - 🎮 I love playing video games 

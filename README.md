@@ -20,7 +20,7 @@ I'm stupid
 That's it!
 
 # 👯 I’m looking to collaborate on:
- **Anything within skillset**
+ **Anything within my skillset**
 
 # 📫 How to reach me:
 -You can contact me on Discord via IF6+#4520

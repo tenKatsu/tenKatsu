@@ -4,7 +4,7 @@
 I'm stupid
 
 # 🌱 I’m currently learning:
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+![image](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 <!--
 
 Here are some ideas to get you started:

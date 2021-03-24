@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Jay or IF6(+) 👋
 
+# ⚡ Fun fact: 
+I'm stupid
+
+# 🌱 I’m currently learning:
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
 <!--
-**IF6plus/IF6plus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -12,5 +16,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->

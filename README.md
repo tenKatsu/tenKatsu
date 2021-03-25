@@ -20,7 +20,7 @@ I'm stupid
 # 🤝 I’m looking to collaborate on:
 Nothing for now
 
-# 📫 How to reach me:
+# 📩How to reach me:
 You can contact me on Discord via IF6+#4520. 
 You may also contact me via Twitter: [IF6+ on Twitter](https://twitter.com/IF6plus)
 

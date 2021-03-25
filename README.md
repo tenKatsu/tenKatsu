@@ -18,7 +18,7 @@ I'm stupid
 
 ## [![Presences Repo](https://github-readme-stats.vercel.app/api/pin/?username=IF6plus&repo=Presences)](https://github.com/IF6plus/Presences)
 # 🤝 I’m looking to collaborate on:
-Nothing for now
+- My website written in Vue and React (Once I learn the two)
 
 # 📩How to reach me:
 You can contact me on Discord via IF6+#4520. 

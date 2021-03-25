@@ -17,8 +17,8 @@ I'm stupid
 # 📝I’m currently working on:
 
 ## [![Presences Repo](https://github-readme-stats.vercel.app/api/pin/?username=IF6plus&repo=Presences)](https://github.com/IF6plus/Presences)
-# 👯 I’m looking to collaborate on:
- **Anything within skillset**
+# 🤝 I’m looking to collaborate on:
+Nothing for now
 
 # 📫 How to reach me:
 You can contact me on Discord via IF6+#4520. 

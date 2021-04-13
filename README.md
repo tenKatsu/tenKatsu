@@ -17,6 +17,8 @@ I'm stupid
 # 📝I’m currently working on:
 
 ## [![Presences Repo](https://github-readme-stats.vercel.app/api/pin/?username=IF6plus&repo=Presences)](https://github.com/IF6plus/Presences)
+## A Discord music bot written in Discord.js
+
 # 🤝 I’m looking to collaborate on:
 - My website written in Vue and React (Once I learn the two)
 

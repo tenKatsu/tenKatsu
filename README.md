@@ -38,7 +38,7 @@ You may also contact me via Twitter: [IF6+ on Twitter](https://twitter.com/IF6pl
 - 🎬 I edit videos 
 - 👶 I was born on July 21, 2004
 - 📍 I currently live in New York
-- 🎵 I love Lo-Fi Music (and sometimes Bedroom Pop)
+- 🎵 I love Lo-Fi Music (and sometimes Bedroom Pop/Indie Pop)
 - ☁ I love sky watching!
 - 🎓 I'm currently attending High School (3rd Year)
 # 📊 My GitHub Stats

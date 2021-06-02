@@ -16,11 +16,18 @@ I'm stupid
 
 # 📝I’m currently working on:
 
-## [![Presences Repo](https://github-readme-stats.vercel.app/api/pin/?username=IF6plus&repo=Presences)](https://github.com/IF6plus/Presences)
-## A Discord music bot written in Discord.js
+[![Presences Repo](https://github-readme-stats.vercel.app/api/pin/?username=IF6plus&repo=Presences)](https://github.com/IF6plus/Presences)
+
+<a href="https://top.gg/bot/721846240890978369">
+  <img src="https://top.gg/api/widget/721846240890978369.svg" alt="Kirby Music" />
+  </a>
 
 # 🤝 I’m looking to collaborate on:
-- My website written in Vue and React (Once I learn the two)
+ <a href="https://top.gg/bot/721846240890978369">
+  <img src="https://top.gg/api/widget/721846240890978369.svg" alt="Kirby Music" />
+  </a>
+
+#### DM me on Discord to get invited to collaborate
 
 # 📩How to reach me:
 You can contact me on Discord via IF6+#4520. 

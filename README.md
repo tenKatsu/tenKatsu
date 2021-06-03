@@ -27,7 +27,7 @@ I'm stupid
   <img src="https://top.gg/api/widget/721846240890978369.svg" alt="Kirby Music" />
   </a>
 
-#### DM me on Discord to get invited to collaborate
+#### DM me on Discord to get invited to collaborate: IF6+#2584
 
 # 📩How to reach me:
 You can contact me on Discord via IF6+#4520. 

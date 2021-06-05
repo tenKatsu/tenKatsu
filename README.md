@@ -18,15 +18,10 @@ I'm stupid
 
 [![Presences Repo](https://github-readme-stats.vercel.app/api/pin/?username=IF6plus&repo=Presences)](https://github.com/IF6plus/Presences)
 
-<a href="https://top.gg/bot/721846240890978369">
-  <img src="https://top.gg/api/widget/721846240890978369.svg" alt="Kirby Music" />
-  </a>
-
+[![KM Repo](https://github-readme-stats.vercel.app/api/pin/?username=IF6plus&repo=KirbyMusicSource)](https://github.com/IF6plus/KirbyMusicSource)
 # 🤝 I’m looking to collaborate on:
- <a href="https://top.gg/bot/721846240890978369">
-  <img src="https://top.gg/api/widget/721846240890978369.svg" alt="Kirby Music" />
-  </a>
 
+[![KM Repo](https://github-readme-stats.vercel.app/api/pin/?username=IF6plus&repo=KirbyMusicSource)](https://github.com/IF6plus/KirbyMusicSource)
 #### DM me on Discord to get invited to collaborate: IF6+#2584
 
 # 📩How to reach me:

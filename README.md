@@ -18,11 +18,11 @@ I'm stupid
 
 [![Presences Repo](https://github-readme-stats.vercel.app/api/pin/?username=IF6plus&repo=Presences)](https://github.com/IF6plus/Presences)
 
-[![KM Repo](https://github-readme-stats.vercel.app/api/pin/?username=IF6plus&repo=KirbyMusicSource)](https://github.com/IF6plus/KirbyMusicSource)
+## Kirby Music
+
 # 🤝 I’m looking to collaborate on:
 
-[![KM Repo](https://github-readme-stats.vercel.app/api/pin/?username=IF6plus&repo=KirbyMusicSource)](https://github.com/IF6plus/KirbyMusicSource)
-#### DM me on Discord to get invited to collaborate: IF6+#2584
+## Nothing right this second
 
 # 📩How to reach me:
 You can contact me on Discord via IF6+#4520. 

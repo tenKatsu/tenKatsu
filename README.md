@@ -1,7 +1,7 @@
-### Hi there, I'm Jay or IF6(+) 👋
+### Hi there, I'm Jay or Katsu 👋
 
 # ⚡ Fun fact: 
-I'm stupid
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 # 🌱I’m currently learning:
 ![image](	https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) ![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -16,7 +16,7 @@ I'm stupid
 
 # 📝I’m currently working on:
 
-[![Presences Repo](https://github-readme-stats.vercel.app/api/pin/?username=IF6plus&repo=Presences)](https://github.com/IF6plus/Presences)
+[![Presences Repo](https://github-readme-stats.vercel.app/api/pin/?username=tenKatsu&repo=Presences)](https://github.com/tenKatsu/Presences)
 
 ## Kirby Music
 
@@ -25,16 +25,16 @@ I'm stupid
 ## Nothing right this second
 
 # 📩How to reach me:
-You can contact me on Discord via IF6+#4520. 
-You may also contact me via Twitter: [IF6+ on Twitter](https://twitter.com/IF6plus)
+You can contact me on Discord via Katsu#0001. 
+You may also contact me via Twitter: [Katsu on Twitter](https://twitter.com/real_katsu)
 
 # 👤 More about me!
 - 🎮 I love playing video games 
 - 🎬 I edit videos 
-- 👶 I was born on July 21, 2004
+- 👶 I am 17 Years Old!
 - 📍 I currently live in New York
 - 🎵 I love Lo-Fi Music (and sometimes Bedroom Pop/Indie Pop)
 - ☁ I love sky watching!
-- 🎓 I'm currently attending High School (3rd Year)
+- 🎓 I'm currently attending High School (Last Year!)
 # 📊 My GitHub Stats
-![IF6plus' GitHub Stats](https://github-readme-stats.vercel.app/api?username=IF6plus&bg_color=70,914ec2,63b7e6&title_color=324bad&text_color=5f1d8a&show_icons=true&icon_color=1974D2)
+![Katsu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tenKatsu&bg_color=70,914ec2,63b7e6&title_color=324bad&text_color=5f1d8a&show_icons=true&icon_color=1974D2)

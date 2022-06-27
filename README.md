@@ -1,4 +1,4 @@
-### Hi there, I'm Jay or Katsu 👋
+### Hi there, I'm Lily or Katsu 👋
 
 # ⚡ Fun fact: 
 Did you know?
@@ -29,12 +29,10 @@ You can contact me on Discord via Katsu#0001.
 You may also contact me via Twitter: [Katsu on Twitter](https://twitter.com/real_katsu)
 
 # 👤 More about me!
-- 🎮 I love playing video games 
-- 🎬 I edit videos 
+- 🎮 I love playing video games  
 - 👶 I am 17 Years Old!
 - 📍 I currently live in New York
 - 🎵 I love Lo-Fi Music (and sometimes Bedroom Pop/Indie Pop)
-- ☁ I love sky watching!
-- 🎓 I'm currently attending High School (Last Year!)
+- 🎓 I have graduated High-School and am about to attend college
 # 📊 My GitHub Stats
 ![Katsu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tenKatsu&bg_color=70,914ec2,63b7e6&title_color=324bad&text_color=5f1d8a&show_icons=true&icon_color=1974D2)

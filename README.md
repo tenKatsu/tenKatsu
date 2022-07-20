@@ -17,6 +17,8 @@ Did you know?
 # 📝I’m currently working on:
 
 [![Presences Repo](https://github-readme-stats.vercel.app/api/pin/?username=tenKatsu&repo=Presences)](https://github.com/tenKatsu/Presences)
+- My [Website](https://katsu.fun)
+- Kirby Music (Link to invite is on my site)
 
 ## Kirby Music
 
